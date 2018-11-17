@@ -1,0 +1,8 @@
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\bin\Debug\netcoreapp2.0\StringSizeProject.deps.json
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\bin\Debug\netcoreapp2.0\StringSizeProject.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\bin\Debug\netcoreapp2.0\StringSizeProject.pdb
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\obj\Debug\netcoreapp2.0\StringSizeProject.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\obj\Debug\netcoreapp2.0\StringSizeProject.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\obj\Debug\netcoreapp2.0\StringSizeProject.AssemblyInfo.cs
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\obj\Debug\netcoreapp2.0\StringSizeProject.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject\obj\Debug\netcoreapp2.0\StringSizeProject.pdb

@@ -1,0 +1,17 @@
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.Tests.deps.json
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.Tests.runtimeconfig.json
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.Tests.runtimeconfig.dev.json
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.Tests.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.Tests.pdb
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\bin\Debug\netcoreapp2.0\StringSizeProject.pdb
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.csprojAssemblyReference.cache
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.AssemblyInfo.cs
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.csproj.CopyComplete
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.dll
+C:\Users\Aaron\Documents\Visual Studio 2017\Projects\StringSizeProject\StringSizeProject.Tests\obj\Debug\netcoreapp2.0\StringSizeProject.Tests.pdb
